@@ -19,9 +19,10 @@ body {
 }
 
 .img {
-  margin: 0;
-  padding: 0;
+  width: 90%;
   height: 18.125rem;
+  background-image: url("/images/image-qr-code.png");
+  background-size: cover;
   border-radius: 10px;
 }
 
